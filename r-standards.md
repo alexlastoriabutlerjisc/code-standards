@@ -16,7 +16,7 @@
 # Asset: SB265_00001
 # Inputs: [dbo].[SB265_00001QA]
 # Outputs: Figure 1.csv
-# Author: Jim Bob
+# Author: _______
 # Last updated (and why): 2021/22 (changed output file folder location)
 
 
